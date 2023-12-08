@@ -1,5 +1,7 @@
 # DISSInput-tmin
 
+Improved version of afl-tmin. Pruning duplicate structures in testcase of fuzzer.
+
 ### INSTALL
 1. move all file to AFL(https://github.com/google/AFL) root directory.
 2. add dissinput-tmin.c to the AFL Makefiles and make.
